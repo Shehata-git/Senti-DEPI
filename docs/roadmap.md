@@ -12,13 +12,21 @@ Commit hash: 25ad22858daa60410785757e8bc9fff4d7b76cf7
 - [x] Data Science Analysis: Perform exploratory data analysis (EDA) to identify trends and patterns in the data.  
 Commit hash: 25ad22858daa60410785757e8bc9fff4d7b76cf7
 
-- [ ] Build and evaluate sentiment analysis models using Python (Random Forest).
+~Build and evaluate sentiment analysis models using Python (Random Forest).~
+- [x] Build sentiment analysis model using a pre-trained hugging face model.
+Commit hash: Pending.
 
 ## Advanced Techniques and Deployment
-- [ ] Natural Language Processing (NLP): Apply attention-based NLP models to improve sentiment analysis (e.g., BERT).
+~Natural Language Processing (NLP): Apply attention-based NLP models to improve sentiment analysis (e.g., BERT).~
+Note: Done on previous step.
+
 - [ ] Utilize FastAPI or any similar library to host the model either locally or on a server.
 
 ## MLOPs, GANs, and Final Presentation
-- [ ] MLOps: Use MLflow to track and manage machine-learning models.
-- [ ] Generative Models: Implement a basic Generative Adversarial Network (GAN) to generate synthetic customer feedback data for analysis.
+~MLOps: Use MLflow to track and manage machine-learning models.~
+Infeasible under time constaints.
+
+~Generative Models: Implement a basic Generative Adversarial Network (GAN) to generate synthetic customer feedback data for analysis.~
+Infeasible under time constraints.
+
 - [ ] Final Presentation: Prepare a report and presentation summarizing the project work, including data analysis, model development, and deployment.
