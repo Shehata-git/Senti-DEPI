@@ -14,7 +14,7 @@ Commit hash: 25ad22858daa60410785757e8bc9fff4d7b76cf7
 
 ~Build and evaluate sentiment analysis models using Python (Random Forest).~
 - [x] Build sentiment analysis model using a pre-trained hugging face model.
-Commit hash: Pending.
+Commit hash: 574acb555195e1df625bdb59997a90205bc9974a.
 
 ## Advanced Techniques and Deployment
 ~Natural Language Processing (NLP): Apply attention-based NLP models to improve sentiment analysis (e.g., BERT).~
