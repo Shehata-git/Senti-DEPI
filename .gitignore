@@ -1,3 +1,4 @@
 data/
 scripts/
 .ipynb_checkpoints/
+src/tuned_sentiment_model.pkl
