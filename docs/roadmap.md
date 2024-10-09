@@ -20,7 +20,7 @@ Commit hash: 574acb555195e1df625bdb59997a90205bc9974a.
 ~Natural Language Processing (NLP): Apply attention-based NLP models to improve sentiment analysis (e.g., BERT).~
 Note: Done on previous step.
 
-- [ ] Utilize FastAPI or any similar library to host the model either locally or on a server.
+- [x] Utilize ~FastAPI~ Flask or any similar library to host the model either locally or on a server.
 
 ## MLOPs, GANs, and Final Presentation
 ~MLOps: Use MLflow to track and manage machine-learning models.~
@@ -29,4 +29,4 @@ Infeasible under time constaints.
 ~Generative Models: Implement a basic Generative Adversarial Network (GAN) to generate synthetic customer feedback data for analysis.~
 Infeasible under time constraints.
 
-- [ ] Final Presentation: Prepare a report and presentation summarizing the project work, including data analysis, model development, and deployment.
+- [x] Final Presentation: Prepare a report and presentation summarizing the project work, including data analysis, model development, and deployment.
